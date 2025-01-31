@@ -1,5 +1,7 @@
 # MediaPipe LLM Inference Android Demo
 
+This is given by Google sample.
+
 ### Overview
 
 This is a sample app that demonstrates how to use the LLM Inference API to run common text-to-text generation tasks like information retrieval, email drafting, and document summarization.
