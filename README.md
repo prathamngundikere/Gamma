@@ -1,6 +1,6 @@
 # MediaPipe LLM Inference Android Demo
 
-This is given by Google sample.
+This is given by Google sample. Here I am trying to add different kind of models and trying it out.
 
 ### Overview
 
