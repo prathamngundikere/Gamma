@@ -1,6 +1,6 @@
 # MediaPipe LLM Inference Android Demo
 
-This is given by Google sample. Here I am trying to add different kind of models and trying it out.
+This is given by Google sample. Here I am trying to add different kind of models and trying it out. In this project I have added 4 models in that two are 4bit and 2 are 8bit models.
 
 ### Overview
 
